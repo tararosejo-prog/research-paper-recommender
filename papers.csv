@@ -1,11 +1,54 @@
 title,domain,abstract,keywords
 Deep Learning for Medical Image Analysis,Healthcare,This paper explains how deep learning models are used for medical image analysis and disease detection.,deep learning medical imaging healthcare
-Natural Language Processing in Education,Education,This paper studies the use of NLP techniques in intelligent educational systems and learning platforms.,nlp education intelligent tutoring
-Cybersecurity Threat Detection using Machine Learning,Cybersecurity,This paper presents machine learning methods to identify and classify cybersecurity threats from network data.,cybersecurity machine learning threat detection
-IoT Based Smart Agriculture System,Agriculture,This paper discusses the use of IoT sensors and data analysis techniques in smart agriculture systems.,iot agriculture sensors smart farming
-Sentiment Analysis on Social Media,NLP,This paper focuses on identifying user sentiment from social media posts using text mining and natural language processing.,sentiment analysis social media nlp
-Recommendation Systems using Content Based Filtering,Recommendation Systems,This paper explains how content based recommendation systems work using similarity between item descriptions.,recommendation content based filtering
 Artificial Intelligence for Disease Prediction,Healthcare,This paper explores AI and machine learning models for predicting diseases from patient records.,ai disease prediction healthcare
+Neural Networks in Clinical Decision Support,Healthcare,This paper discusses neural network models used in clinical decision support systems and diagnosis.,neural networks healthcare diagnosis clinical support
+Machine Learning for Hospital Data Analysis,Healthcare,This paper studies machine learning methods for analyzing hospital records and patient trends.,machine learning hospital data healthcare
+Deep Learning in Healthcare Monitoring,Healthcare,This paper explains how deep learning can be applied to smart healthcare monitoring systems.,deep learning healthcare monitoring
+
+Natural Language Processing in Education,Education,This paper studies the use of NLP techniques in intelligent educational systems and learning platforms.,nlp education intelligent tutoring
+NLP Based Automated Essay Evaluation,Education,This paper explains how natural language processing can be used for automatic essay scoring and feedback.,nlp essay evaluation education
+Chatbots for Smart Learning Environments,Education,This paper discusses chatbot systems designed to improve interactive learning experiences.,chatbot education learning smart system
+Text Mining for Student Performance Analysis,Education,This paper focuses on text mining methods used to analyze academic records and student feedback.,text mining student performance education
+Language Models for Personalized Learning,Education,This paper explores language models for adaptive and personalized educational support.,language models personalized learning education
+
+Cybersecurity Threat Detection using Machine Learning,Cybersecurity,This paper presents machine learning methods to identify and classify cybersecurity threats from network data.,cybersecurity machine learning threat detection
+Intrusion Detection using Deep Learning,Cybersecurity,This paper discusses deep learning models for detecting network intrusions and suspicious behavior.,deep learning intrusion detection cybersecurity
+Malware Classification with AI,Cybersecurity,This paper explains artificial intelligence approaches for malware detection and classification.,malware classification ai cybersecurity
+Anomaly Detection in Secure Networks,Cybersecurity,This paper studies anomaly detection techniques for identifying unusual patterns in network traffic.,anomaly detection secure network cybersecurity
+AI Based Phishing Detection,Cybersecurity,This paper explores AI models for detecting phishing emails and malicious online content.,ai phishing detection cybersecurity
+
+IoT Based Smart Agriculture System,Agriculture,This paper discusses the use of IoT sensors and data analysis techniques in smart agriculture systems.,iot agriculture sensors smart farming
+Machine Learning for Crop Yield Prediction,Agriculture,This paper studies machine learning models used to predict crop yield based on environmental data.,machine learning crop yield agriculture
+Sensor Based Irrigation Monitoring,Agriculture,This paper explains sensor-driven systems for smart irrigation and water management.,sensor irrigation monitoring agriculture
+AI in Precision Farming,Agriculture,This paper explores the use of artificial intelligence in precision farming and farm management.,ai precision farming agriculture
+Data Analytics for Soil Health Assessment,Agriculture,This paper discusses data analysis techniques for evaluating soil conditions and fertility.,data analytics soil health agriculture
+
+Sentiment Analysis on Social Media,NLP,This paper focuses on identifying user sentiment from social media posts using text mining and natural language processing.,sentiment analysis social media nlp
+Opinion Mining for Product Reviews,NLP,This paper studies opinion mining techniques for analyzing customer reviews and feedback.,opinion mining product reviews nlp
+Emotion Detection from Text,NLP,This paper explains methods for detecting human emotions from textual data using NLP.,emotion detection text nlp
+Aspect Based Sentiment Analysis,NLP,This paper explores aspect-based sentiment analysis for detailed opinion classification.,aspect based sentiment analysis nlp
+Text Classification for Social Media Analytics,NLP,This paper discusses text classification methods used in social media content analysis.,text classification social media nlp
+
+Recommendation Systems using Content Based Filtering,Recommendation Systems,This paper explains how content based recommendation systems work using similarity between item descriptions.,recommendation content based filtering
+Collaborative Filtering in Recommender Systems,Recommendation Systems,This paper discusses collaborative filtering approaches for personalized recommendations.,collaborative filtering recommender systems
+Hybrid Recommendation Techniques,Recommendation Systems,This paper explores hybrid recommendation methods combining content based and collaborative techniques.,hybrid recommendation systems
+AI Based Personalized Recommendation Models,Recommendation Systems,This paper studies artificial intelligence models for user-specific recommendation.,ai personalized recommendation systems
+Similarity Measures in Recommendation Engines,Recommendation Systems,This paper explains the role of similarity measures in modern recommendation engines.,similarity measures recommendation systems
+
 Blockchain in Secure Data Management,Security,This paper studies blockchain technology for secure and transparent data management systems.,blockchain security data management
+Blockchain for Healthcare Records,Security,This paper explains blockchain applications in protecting electronic health records.,blockchain healthcare records security
+Decentralized Data Protection using Blockchain,Security,This paper discusses decentralized approaches for secure data storage using blockchain.,decentralized data protection blockchain security
+Smart Contracts in Secure Systems,Security,This paper explores smart contracts and their role in secure digital systems.,smart contracts secure systems blockchain
+Blockchain Based Identity Management,Security,This paper focuses on identity management solutions using blockchain frameworks.,blockchain identity management security
+
 Deep Learning for Speech Recognition,Speech Processing,This paper discusses neural network approaches for automatic speech recognition systems.,deep learning speech recognition
+Automatic Speech Recognition using AI,Speech Processing,This paper explains AI based models for converting speech into text.,automatic speech recognition ai
+Voice Controlled Intelligent Systems,Speech Processing,This paper studies voice-driven intelligent systems and speech interfaces.,voice control intelligent systems speech
+Acoustic Modeling with Neural Networks,Speech Processing,This paper explores acoustic modeling methods for speech processing using neural networks.,acoustic modeling neural networks speech
+Speech Signal Analysis using Machine Learning,Speech Processing,This paper discusses machine learning techniques for analyzing speech signals.,speech signal analysis machine learning
+
 Machine Learning for Weather Forecasting,Environment,This paper presents machine learning models used for weather prediction and climate analysis.,machine learning weather forecasting
+AI for Climate Prediction,Environment,This paper explains artificial intelligence methods for climate trend prediction.,ai climate prediction environment
+Rainfall Prediction using Data Mining,Environment,This paper discusses data mining techniques for rainfall forecasting.,rainfall prediction data mining environment
+Environmental Data Analytics using ML,Environment,This paper explores machine learning based environmental data analysis.,environmental data analytics machine learning
+Forecasting Temperature Patterns with AI,Environment,This paper studies AI methods for temperature forecasting and seasonal analysis.,temperature forecasting ai environment
